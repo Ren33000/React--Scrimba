@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# React 1st app: the basics 
+
+
+![Banner](https://github.com/Ren33000/React--Scrimba/blob/master/React1.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
