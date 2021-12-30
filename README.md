@@ -3,6 +3,14 @@
 
 ![Banner](https://github.com/Ren33000/React--Scrimba/blob/master/React1.png)
 
+# Refactor the app to get dark mode and light mode switch
+Went back to the app during final part of the course to improve the UI with a dark/light mode switch
+
+![Banner](https://github.com/Ren33000/React--Scrimba/blob/master/Screen%20Shot%202021-12-30%20at%2011.57.06.png)
+![Banner](https://github.com/Ren33000/React--Scrimba/blob/master/Screen%20Shot%202021-12-30%20at%2011.57.19.png)
+
+
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
